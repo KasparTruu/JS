@@ -1,0 +1,5 @@
+//Math objekt sisaldab matemaatilisi funktsioone ja konstante. Seda kasutatakse sageli matemaatiliste arvutuste tegemiseks, nagu ümardamine, ruutjuur, trigonomeetria funktsioonid jne.
+//Date objekt võimaldab töötada kuupäevade ja kellaaegadega. Selle abil saab luua uusi kuupäevaobjekte, saada juurde kuupäeva komponente (nagu päev, kuu, aasta) ja teha erinevaid toiminguid kuupäevade vahel.
+//Array objekt on sisseehitatud objekt, mida kasutatakse massiivide loomiseks ja manipuleerimiseks. See sisaldab mitmeid meetodeid, mis võimaldavad massiividega töötada, nagu elemendi lisamine, eemaldamine, sorteerimine, filtreerimine jne.
+//String objekt sisaldab meetodeid, mis võimaldavad töötada sõnedega. Näiteks, saate kasutada meetodeid nagu length (pikkuse saamine), toUpperCase (suurte tähtede kasutamine), substring (alamstringi võtmine) jne.
+//Object objekt on JavaScripti alusobjekt, mida kasutatakse kõikide objektide baasina. Selle meetodeid saab kasutada objektide loomiseks, omaduste lisamiseks ja juurdepääsuks, objektide kopeerimiseks jne.
