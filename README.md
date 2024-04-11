@@ -1,1 +1,2 @@
-Sissejuhatus JavaScripti (näidis)
+# JavaScript basics
+Learning how to use JavaScript
