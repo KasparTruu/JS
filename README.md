@@ -1,0 +1,1 @@
+Sissejuhatus JavaScripti (näidis)
